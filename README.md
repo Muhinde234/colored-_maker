@@ -1,2 +1,2 @@
 #color marker
-![color marker](./color/colormarker)
+![color marker](./color/colormaker)
