@@ -1,2 +1,2 @@
 #color marker
-![color marker](./color/colormaker)
+![color marker](./color/COLORED_MAKER/demo.png)
